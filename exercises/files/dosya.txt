@@ -1,0 +1,4 @@
+tugba	1
+nur	2
+naz	3
+ibos	4

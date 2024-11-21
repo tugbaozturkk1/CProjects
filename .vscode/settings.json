@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "random": "c",
+        "typeinfo": "c"
+    }
+}
